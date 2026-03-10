@@ -15,7 +15,7 @@ int main() {
 
     cin >> num2;
 
-    cout<<(num1 + num2) << " foda" << endl;
+    cout<<(num1 + num2) << "top" << endl;
     
     cout<< num1 << endl; // endl é quebra de linha
     cout<< num2 << endl;
